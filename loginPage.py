@@ -16,4 +16,5 @@ class LoginPage:
         self.driver.find_element(*SauceDemoLocators.login_error).is_displayed()
 
 print("New line")
+print("Next")
 
