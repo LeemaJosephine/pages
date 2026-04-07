@@ -17,4 +17,5 @@ class LoginPage:
 
 print("New line")
 print("Next")
+print("Another")
 
