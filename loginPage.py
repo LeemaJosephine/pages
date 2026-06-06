@@ -15,7 +15,3 @@ class LoginPage:
     def is_error_displayed(self):
         self.driver.find_element(*SauceDemoLocators.login_error).is_displayed()
 
-print("New line")
-print("Next")
-print("Another")
-print("Hello, World!")
